@@ -1,0 +1,6 @@
+tanto en el archivo service como en el controller se crea el decorador
+ y despues se lo exporta como  
+una clase luego van las llaves {} y dentro de la llaves esta el contructor.
+
+
+Las entities se conecta con el service y el service con los controllers
